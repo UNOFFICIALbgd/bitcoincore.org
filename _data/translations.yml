@@ -67,3 +67,17 @@ es:
   rss_feed: "Fuente RSS del Blog de Bitcoin Core"
   rss_meetings_feed: "Feed de reuniones"
   rss_blog_feed: "Feed de entradas del blog"
+
+ru:
+  created: "Published on the"
+  author: "by"
+  description: "Сайт Bitcoin Core"
+  footer: "Bitcoin Core project"
+  related: "Recommended"
+  viewallposts: "View all posts"
+  not_translated: "Note: this page has not been translated"
+  tocoverview: "Overview"
+  translation_outdated: "Этот перевод может быть недействительным. Пожалуйста, сравните с английской версией."
+  rss_feed: "Bitcoin Core Blog RSS Feed"
+  rss_meetings_feed: "Meetings feed"
+  rss_blog_feed: "Blog posts feed"
